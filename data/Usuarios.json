@@ -1,0 +1,215 @@
+
+
+[
+      {
+         "Nombre": "Raul",
+         "Apellido": "Gimenez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Luis",
+         "Apellido": "Gimenez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Melina",
+         "Apellido": "Molina",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Beatriz",
+         "Apellido": "Sanchez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Daniela",
+         "Apellido": "Perez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Julieta",
+         "Apellido": "Gomez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Juan",
+         "Apellido": "Perez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Melina",
+         "Apellido": "Rodriguez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Alicia",
+         "Apellido": "Rodriguez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Pablo",
+         "Apellido": "Gonzalez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Miguel",
+         "Apellido": "Rosales",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Julieta",
+         "Apellido": "Perez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Samuel",
+         "Apellido": "Perez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Martin",
+         "Apellido": "Rosales",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Silvana",
+         "Apellido": "Quintana",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Pablo",
+         "Apellido": "Romero",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Juan",
+         "Apellido": "Gimenez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Beatriz",
+         "Apellido": "Fernandez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Mauro",
+         "Apellido": "Rodriguez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Maria",
+         "Apellido": "Lopez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Alicia",
+         "Apellido": "Rivero",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Sabrina",
+         "Apellido": "Rodriguez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Micaela",
+         "Apellido": "Gimenez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Cristina",
+         "Apellido": "Fernandez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Sebastian",
+         "Apellido": "Lopez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Sabrina",
+         "Apellido": "Gonzalez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Sabrina",
+         "Apellido": "Gomez",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Juan",
+         "Apellido": "Gomez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Luis",
+         "Apellido": "Sanchez",
+         "Estado": "Inactivo",
+         "Tipo": "Usuario"
+      },
+      {
+         "Nombre": "Daniela",
+         "Apellido": "Quintana",
+         "Estado": "Activo",
+         "Tipo": "Usuario"
+      },
+	 {
+         "Nombre": "Esteban",
+         "Apellido": "Rosales",
+         "Estado": "Activo",
+         "Tipo": "Admin"
+      },
+      {
+         "Nombre": "Samanta",
+         "Apellido": "Molina",
+         "Estado": "Inactivo",
+         "Tipo": "Admin"
+      },
+      {
+         "Nombre": "Hernan",
+         "Apellido": "Molina",
+         "Estado": "Inactivo",
+         "Tipo": "Admin"
+      },
+      {
+         "Nombre": "Hernan",
+         "Apellido": "Gonzalez",
+         "Estado": "Activo",
+         "Tipo": "Admin"
+      },
+      {
+         "Nombre": "Valentina",
+         "Apellido": "Suarez",
+         "Estado": "Inactivo",
+         "Tipo": "Admin"
+      }
+]
+

@@ -1,0 +1,25 @@
+input[type=text],[type=number],select, textarea {
+    width: 80%;
+    padding: 10px 15px;
+    margin: 4px;
+    display: inline;
+    border: 1px solid #336b87;
+    box-sizing: border-box;
+}
+
+label {
+  text-align: center;
+  padding: 0.5em 1.5em 0.5em 0;
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+input:focus {
+  outline: 3px solid #336b87;;
+}
+
+.modal-content {
+  text-align: center;
+  width: 100%;
+}
+

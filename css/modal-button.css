@@ -1,0 +1,31 @@
+.delete {
+	background-color: darkred;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+
+  }
+  
+ .delete:hover {
+	background-color: orangered;
+	color: black;
+	border-radius: 1px;
+  }
+  
+  .send {
+	background-color: forestgreen;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+
+  }
+  
+  .send:hover {
+	background-color: lightgreen;
+	color: black;
+	border-radius: 1px;
+  }
